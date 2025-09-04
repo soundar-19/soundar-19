@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [ ] Contribute to more open source projects
 - [ ] Master advanced system design concepts
